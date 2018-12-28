@@ -1,7 +1,8 @@
 == Chapter V.
 
-Visit to Munster, and some parts of Leinster.--Visit to Wales,
-and some meetings in England.
+[.chapter-synopsis]
+* Visit to Munster, and some parts of Leinster
+* Visit to Wales, and some meetings in England.
 
 1757, fourth month 4th and 5th.--Taken up pretty much in reading, writing,
 and retirement, wherein I witnessed calmness of mind and a quiet habitation,
@@ -280,11 +281,19 @@ The virtue of Truth rose into dominion many times,
 and my soul was deeply bowed under the renewed experience of the mercy of my Lord,
 richly extended to me in this journey.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Richard and Elizabeth Shackleton
 
+[.signed-section-context-open]
 Wicklow, Sixth month 25th, 1757.
 
-My Dear Friends,--I am not altogether insensible of the
+[.salutation]
+My Dear Friends,
+
+I am not altogether insensible of the
 weight of the trial you have of late passed through,
 in the loss of your released happy little one,
 and the commotion of your family by the distemper +++[+++small-pox;]
@@ -318,7 +327,10 @@ I shall be glad of a few lines from you if you think me worthy of them,
 either at Waterford, Cork, or Limerick,
 and salute you unfeignedly in a degree of my Father's love, and am your real friend,
 
+[.signed-section-signature]
 Samuel Neale.
+
+--
 
 After an absence of six weeks and three days, I returned home, 8th of eighth month,
 fully satisfied that I had been in the way of my duty; with this resolution,
@@ -658,4 +670,3 @@ the tears flowed in great plenty from his eyes, which he strove in vain to hide.
 After Thomas had sat down, this person stood up,
 and desired he might be forgiven of the Almighty,
 for despising the greatest of His instruments under heaven, or in His creation.
-

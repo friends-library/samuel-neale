@@ -1,16 +1,19 @@
 == Chapter II.
 
-Joins William Brown from America, in a visit to some parts of England, Holland,
-and Germany--Visits the West of England--Attends the yearly meeting in London.
+[.chapter-synopsis]
+* Joins William Brown from America, in a visit to some parts of England, Holland, and Germany
+* Visits the West of England
+* Attends the yearly meeting in London.
 
 +++[+++Twelfth month, 1751.]--About this time dear William Brown arrived from America,
 a faithful minister and an experienced elder, who needed a companion.
 I was spoken to on the subject; and after receiving the advice of my friends,
 and feeling my way open, I agreed to go with him; this I hope proved a blessing to me.
 
+[.offset]
 +++[+++During his stay in Dublin, preparing for his journey,
-he laboured faithfully in the vineyard.]
-He remarks:
+he laboured faithfully in the vineyard.
+He remarks:]
 
 There seemed an open door; the change in me awakened the minds of several of the youth,
 who were greatly struck with it; and indeed it was a day of visitation to many.
@@ -30,11 +33,19 @@ At the last meeting we attended in this journey we were made partakers of the he
 sweetening virtue of Truth; and we were mercifully sustained throughout,
 by the invisible omnipotent Arm, that never fails those who trust in it.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Neale to a Friend
 
+[.signed-section-context-open]
 Widelow, 13th of Third month, 1752.
 
-My Dear Friend,--Though I am at times borne up by the renewings of divine assistance,
+[.salutation]
+My Dear Friend,
+
+Though I am at times borne up by the renewings of divine assistance,
 yet am I at seasons as empty and as mere a nothing, as though I never knew any good;
 and it is rare that I meet such refreshing showers of celestial sweets,
 as I did when in your company;
@@ -70,9 +81,13 @@ who was made perfect through sufferings.
 Therefore I commend to you what I do to my own soul, which is patience in tribulation;
 that when we glory let it be only in the cross of Christ.
 
+[.signed-section-closing]
 Your real friend in the ever blessed Truth,
 
+[.signed-section-signature]
 Samuel Neale.
+
+--
 
 Returning to Dublin, we attended the national meeting in the fifth month; after which,
 having obtained the concurrence of my friends, we embarked for England;
@@ -88,8 +103,15 @@ year of my life it would be truly profitable.
 The meetings for discipline, as well as those for worship, were very consolatory;
 my spirit was much broken and contrited before the Most High, and I walked in great fear.
 
+[.small-break]
+'''
+
 +++[+++In a letter to his friend, Richard Shackleton, dated about this time from London,
 he writes:]
+
+[.embedded-content-document.letter]
+--
+
 As for my part, my dear friend, I find nothing else is like to do for me,
 but the most solemn attention, and the deepest looking after that I am capable of,
 to know how to act for my own peace of mind and the honour of Him,
@@ -140,10 +162,12 @@ will sit on their tower,
 and be instant in season to speak against any invasions the enemy would be making,
 to disturb or render fruitless the labour that is bestowed.
 
+--
+
+[.offset]
 +++[+++He proceeds to give an account of his journey, in company with William Brown,
 through some parts of England, Holland and Germany,
 from which the following extracts are taken.]
-
 
 On the 29th of fifth month, we got well to dear John Griffith's, at Chelmsford,
 and next day being first-day, we were at two favoured meetings there.
@@ -172,8 +196,14 @@ we went on board the packet-boat at Helvoetsluys,
 and through the continued condescension of the invisible Arm of power,
 arrived safe at Harwich on the 24th.
 
+[.small-break]
+'''
+
 +++[+++From Amsterdam he wrote to his friend Richard Shackleton,
 under date of 17th of seventh month, from which the following is extracted:]--
+
+[.embedded-content-document.letter]
+--
 
 The hand and judgments of the Lord are to be laid upon
 every of his vessels and instruments in his house,
@@ -267,13 +297,24 @@ being written in the aboundings of that love which
 fills a heart that wishes you prosperity in every sense;
 I am, your very affectionate friend,
 
+[.signed-section-signature]
 Samuel Neale.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Richard Shackleton
 
+[.signed-section-context-open]
 London, 17th Ninth month, 1762.
 
-Dear Friend,--Your very acceptable letter of the 5th of this month, I duly received,
+[.salutation]
+Dear Friend,
+
+Your very acceptable letter of the 5th of this month, I duly received,
 and I can truly say it was satisfactory as well as consolatory to me,
 being in a low dejected moment of my pilgrimage.
 But the goodness of that merciful Lord,
@@ -342,7 +383,10 @@ Be faithful, my dear friend, and watch for his commands.
 When I can, I pray for you, and all my young brethren and sisters.
 May the spirit of prayer and supplication cover us as a helmet, and shield us as armour.
 
+[.signed-section-signature]
 Samuel Neale
+
+--
 
 After returning from Holland,
 we proceeded on our journey through the southern and western counties of England.
@@ -357,11 +401,19 @@ which remark may my soul treasure up, that so I may make right use of my day and
 and ardently pursue the one thing needful, that leads to eternal repose,
 where the wicked cease from troubling, and the weary are at rest.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To a Friend
 
+[.signed-section-context-open]
 Devonshire, 16th Eleventh month, 1752.
 
-My Dear Friend,--I have of late received counsel instrumentally,
+[.salutation]
+My Dear Friend,
+
+I have of late received counsel instrumentally,
 so applicable and befitting my condition,
 as binds my soul more and more to the testimony,
 and has begotten cries at the very bottom of my soul,
@@ -451,7 +503,10 @@ which I find will be learnt if I seek not my will or honour,
 but the will of Him who sent me; for as I am His, "`do with me, O Lord,
 (I often say) as you please.`"
 
+[.signed-section-signature]
 Samuel Neale
+
+--
 
 On the 22nd of twelfth month, we came to Oakhampton, and having a day to spare,
 myself and companion visited three young women, sisters,
@@ -587,4 +642,3 @@ but after a considerable debate it was deferred,
 and a recommendation sent down to the different monthly meetings,
 to establish women's meetings where there were none;
 and thus the matter closed this year.
-

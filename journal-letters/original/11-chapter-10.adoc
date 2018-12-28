@@ -1,7 +1,13 @@
 == Chapter X.
 
-Attends yearly meeting at Philadelphia 1771--Meetings in Nantucket--New England--
-New York--Returns to Philadelphia 1772--Sails for Ireland--Arrives at Waterford.
+[.chapter-synopsis]
+* Attends yearly meeting at Philadelphia 1771
+* Meetings in Nantucket
+* New England
+* New York
+* Returns to Philadelphia 1772
+* Sails for Ireland
+* Arrives at Waterford.
 
 The yearly meeting of Philadelphia commenced the 21st of the
 ninth month with the meeting of ministers and elders,
@@ -184,6 +190,7 @@ present wilderness state in this quarter of the country;
 where the gates of Zion mourn,
 because so few come forward in a noble concern for Truth and righteousness.
 
+[.offset]
 +++[+++After visiting the meetings in the New England States and in New York,
 he returned to Philadelphia the 13th of second month, 1772,
 to the house of his kind friend John Pemberton.]
@@ -474,11 +481,19 @@ Amen.
 In allusion to his labours in America,
 he thus writes about this time in a letter to a friend.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To a Friend
 
+[.signed-section-context-open]
 Glanmire, 23rd Twelfth month, 1772.
 
-Dear Friend,--I know and feel, that often for the sake of others we are favoured,
+[.salutation]
+Dear Friend,
+
+I know and feel, that often for the sake of others we are favoured,
 not for anything of us or in us at our command,
 and therefore it is not of him that willeth, or of him that runneth,
 but God that showeth mercy; and this, beloved friend, is what sustained, supported,
@@ -495,7 +510,10 @@ and immortality be the crown at the end of my days;
 for which end I hope I crave the help of the spirits of my dear friends everywhere,
 and of their prayers.
 
+[.signed-section-closing]
 With affectionate nearness, I remain thy loving friend.
 
+[.signed-section-signature]
 Samuel Neale.
 
+--

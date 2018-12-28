@@ -1,9 +1,12 @@
-== The Life of Samuel NealeChapter I.
+== Chapter I.
 
-His education--Early life--Powerful visitation of divine love,
-and conversion--His appearance in the ministry.
+[.chapter-synopsis]
+* His education
+* Early life
+* Powerful visitation of divine love, and conversion
+* His appearance in the ministry.
 
-I WAS born in the city of Dublin, the 9th day of the ninth month, 1729.
+I was born in the city of Dublin, the 9th day of the ninth month, 1729.
 My parents were Thomas and Martha Neale,
 who removed shortly afterwards into the compass of Edenderry monthly meeting.
 About the sixth year of my age, my mother died; soon after, my father removed to America,
@@ -346,7 +349,7 @@ having an inclination to go to Mountmellick, to see Friends there-away in their 
 I felt an inclination to accompany him, of which he seemed glad.
 When there, he was joined by James Gough,
 and they invited me to sit with them in the families they visited.
-Iw'as sensible of divine good in most of the families,
+I was sensible of divine good in most of the families,
 and had some openings similar to those spoken of
 by them in their religious communications,
 which was a strength to my mind.
@@ -435,4 +438,3 @@ and had an evidence that the people were much reached, and powerfully affected t
 Afterwards I waded through divers exercises,
 and felt deep baptisms attend me for my further purification,
 and on account of the people, whose states I must feel, if I ministered aright.
-

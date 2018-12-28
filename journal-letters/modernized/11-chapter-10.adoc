@@ -1,7 +1,13 @@
 == Chapter X.
 
-Attends yearly meeting at Philadelphia 1771--Meetings in Nantucket--New England--
-New York--Returns to Philadelphia 1772--Sails for Ireland--Arrives at Waterford.
+[.chapter-synopsis]
+* Attends yearly meeting at Philadelphia 1771
+* Meetings in Nantucket
+* New England
+* New York
+* Returns to Philadelphia 1772
+* Sails for Ireland
+* Arrives at Waterford.
 
 The yearly meeting of Philadelphia commenced the 21st of the
 ninth month with the meeting of ministers and elders,
@@ -184,6 +190,7 @@ present wilderness state in this quarter of the country;
 where the gates of Zion mourn,
 because so few come forward in a noble concern for Truth and righteousness.
 
+[.offset]
 +++[+++After visiting the meetings in the New England States and in New York,
 he returned to Philadelphia the 13th of second month, 1772,
 to the house of his kind friend John Pemberton.]
@@ -259,7 +266,7 @@ as I believe it was best for me to have dropped it, though I had said no more,
 but the largeness of the meeting and my own diffidence made me fearful and backward,
 which increased uneasiness and multiplied my burden.
 
-Third month 23th.--In the meeting for ministers and elders I had a sharp close testimony.
+Third month 23rd.--In the meeting for ministers and elders I had a sharp close testimony.
 I rather kept it too long in my vessel, which disqualified from getting that relief,
 and with that clearness, which was desirable.
 It was respecting those who were in their chambers of imagery,
@@ -475,11 +482,19 @@ Amen.
 In allusion to his labours in America,
 he thus writes about this time in a letter to a friend.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To a Friend
 
+[.signed-section-context-open]
 Glanmire, 23rd Twelfth month, 1772.
 
-Dear Friend,--I know and feel, that often for the sake of others we are favoured,
+[.salutation]
+Dear Friend,
+
+I know and feel, that often for the sake of others we are favoured,
 not for anything of us or in us at our command,
 and therefore it is not of him that wills,  or of him that runs,
 but God that shows mercy; and this, beloved friend, is what sustained, supported,
@@ -496,7 +511,10 @@ and immortality be the crown at the end of my days;
 for which end I hope I crave the help of the spirits of my dear friends everywhere,
 and of their prayers.
 
+[.signed-section-closing]
 With affectionate nearness, I remain your loving friend.
 
+[.signed-section-signature]
 Samuel Neale.
 
+--

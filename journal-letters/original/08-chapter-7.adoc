@@ -1,6 +1,7 @@
 == Chapter VII.
 
-Visits parts of England and Wales.
+[.chapter-synopsis]
+* Visits parts of England and Wales.
 
 +++[+++Soon after his second marriage, Samuel Neale settled in Cork;
 and having for some time had a prospect of visiting some parts of England and Wales,
@@ -10,6 +11,8 @@ He visited the meetings of Friends generally, in South Wales, the city of Bristo
 and the West of England, and returned home in the second month, 1761.
 Of which journey he writes thus:]
 
+[.small-break]
+'''
 
 "`In this visit the Lord was pleased signally to bless with his presence,
 support with his power, and refresh with his heavenly goodness:
@@ -216,7 +219,7 @@ which I humbly hope to look to and lean on.
 
 9th.--Left home on my visit to the province of Ulster, and on the 13th came to Ballitore;
 set off from thence on the 14th, accompanied by my dear friend Abraham Shackleton,
-and got to +++____+++'s,
+and got to +++_______+++'s,
 where the well of refreshment was felt to overflow and stream forth to much consolation;
 the season to me was very encouraging and reviving, strengthening for the journey,
 which I looked upon as a forerunner of exercise and probation, and so it proved,
@@ -413,7 +416,7 @@ of the holy Jesus to stir and bedew the mind;
 in which several renewed gospel intimations were opened to the view,
 and reverence and worship formed in the heart; to the praise of Him that lives for ever.
 In the afternoon read a portion of the Scriptures and
-some profitable experiences in J. Fothergill's journal.
+some profitable experiences in John Fothergill's journal.
 
 Tenth month 4th.--Our week-day meeting;
 in which something weighty attended my mind respecting inquisition being made for blood,
@@ -491,4 +494,3 @@ distinctly, and intently to feel for the resurrection of life,
 which enables us to believe in the spiritual
 appearance of our Lord and Saviour Jesus Christ,
 who testified that "`Whosoever liveth and believeth in me shall never die!`"
-

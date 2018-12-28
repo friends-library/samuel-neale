@@ -1,7 +1,11 @@
 == Chapter III.
 
-Returns to Dublin--Residence near Rathangan meeting--Attends London
-yearly meeting 1756--From there travels into Scotland--Returns home.
+[.chapter-synopsis]
+* Returns to Dublin
+* Residence near Rathangan meeting
+* Attends London yearly meeting 1756
+* From there travels into Scotland
+* Returns home.
 
 Soon after my return to Dublin, I took a place in the country, intending to reside there;
 it was an agreeable solitude, free from noise and hurry,
@@ -18,11 +22,19 @@ and there was an increase in spiritual riches.
 After I was settled in my new habitation, I was very careful to attend Quarterly,
 Province and National meetings, as they fell in course, with other religious services.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To a Friend
 
+[.signed-section-context-open]
 Clonivoe, 7th of Second month, 1755.
 
-Dear Friend,--I cannot help admiring the goodness, mercy,
+[.salutation]
+Dear Friend,
+
+I cannot help admiring the goodness, mercy,
 and continued long-suffering of a gracious God,
 who is indeed abundant in goodness and in eternal truth; who has pruned, dug,
 and cultivated on his part, his heritage, family, and people;
@@ -65,8 +77,12 @@ Well, then, let us not murmur at our probations or tribulations, but rather coun
 that we are worthy to suffer for His name;
 for it is such that are to be partakers with Him in a glorious immortality.
 
+[.signed-section-signature]
 Samuel Neale.
 
+--
+
+[.offset]
 +++[+++It appears that Samuel Neale was in the practice, from about this period,
 of recording his religious experiences and daily engagements in a diary,
 which he kept up to the year before his death.
@@ -271,11 +287,19 @@ and to return thanksgiving and praise to the Author of every blessing,--indeed,
 worthy is He forever and evermore.
 Amen.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Richard and Elizabeth Shackleton
 
+[.signed-section-context-open]
 Kendal, 11th of Eighth month, 1756.
 
-Dear friends, As I was travelling up towards London,
+[.salutation]
+Dear friends,
+
+As I was travelling up towards London,
 I found a weighty thoughtfulness to rest on my mind respecting that city,
 and an apprehension I should not get directly from it after the meetings were over;
 which settled upon me, and engaged my stay there for many weeks,
@@ -326,7 +350,10 @@ whether by sea or land, amongst countrymen or false brethren,
 and which completely overcomes the united force and terror of death, hell, and the grave,
 and centres the soul immortal in immortal life.
 
+[.signed-section-signature]
 Samuel Neale.
+
+--
 
 I had many meetings on my way to Edinburgh,
 which place I reached the 22nd of eighth month, and was at two meetings there,
@@ -387,4 +414,3 @@ I returned home, and found my family and affairs well; for which,
 and all other blessings and mercies,
 may living praises and adoration be ascribed to the inexhaustible Source of all good.
 Amen.
-
