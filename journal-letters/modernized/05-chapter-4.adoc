@@ -1,6 +1,8 @@
 == Chapter IV.
 
-His Marriage with Mary Peisley--Her sudden illness and death.
+[.chapter-synopsis]
+* His Marriage with Mary Peisley
+* Her sudden illness and death.
 
 Ninth month 29th.--Felt my mind inwardly composed and settled,
 and strong in desire both for myself and my brethren,
@@ -148,7 +150,7 @@ and had a profitable season of retirement, in which our minds were bowed;
 thankful in soul ought we to be for such favours and benefits,
 unapproachable in our time and ability.
 But when our great Lord is pleased to unseal refreshment,
-it drops as the rain and distils as the dew,
+it drops as the rain and distills as the dew,
 and causes withering hope to spring as the morning.
 
 1757, first month 1st.--Went on the visit to Friends' families,
@@ -190,7 +192,8 @@ but in the evening enjoyed it in degree to comfort, and the renewal of arising s
 4th.--Being third-day of the week,
 retired with my family to seek refreshment and inward help;
 in the evening was low and poor in mind,
-yet attentive to look towards the habitation of holy succour,
+yet attentive to look towards the habitation of holy succour.
+
 5th.--Set forward to visit my beloved Mary Paisley,
 and the next day was at their weekday meeting at Mountrath,
 which was a melting season to my spirit throughout the whole meeting, and ended well.
@@ -439,12 +442,22 @@ thanksgiving and praise by sanctified spirits on earth,
 and glorified spirits in heaven.
 Amen.
 
+[.small-break]
+'''
+
 The following letter from Richard Shackleton to Catharine Payton,
 gives an account of these affecting events.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Fourth Month 3rd, 1757.
 
-My dear friend--It is laid on me by a friend of ours,
+[.salutation]
+My dear friend,
+
+It is laid on me by a friend of ours,
 to send this messenger of sorrowful tidings to you.
 A scene has opened little expected by us, which I know will nearly affect you,
 as it has us.
@@ -550,9 +563,13 @@ and more and more refine for His further use, till He fits for that heavenly kin
 where, O! that we may all meet, never more to part,
 when these few afflicting days are over.
 
+[.signed-section-closing]
 I am with the salutation of dear love, your real friend,
 
+[.signed-section-signature]
 Richard Shackleton.
+
+--
 
 26th.--Took leave of my friends and relations, in a solemn weighty frame of spirit,
 in the enlargement and overflowing of unlimited love,
@@ -582,10 +599,9 @@ which was graciously vouchsafed, insomuch that I was made thankful and easy;
 having an evidence from the Almighty, through the revelation of his Spirit,
 respecting the removal of his servant, that her days were filled up.
 It seemed to me as though she appeared before me,
-and uttered these words as intelligibly as I ever heard her express any: "`As for me,
+and uttered these words as intelligibly as I ever heard her express any: __"`As for me,
 I am safe; you are still in the body;
-watch well your ways:`"--an unction seemed to accompany
+watch well your ways:`"__--an unction seemed to accompany
 the words which rested on my mind for some days.
 I count it a mercy indeed to be thus noticed,
 and humbly crave help to live diligently in uprightness.
-

@@ -1,7 +1,9 @@
 == Chapter XI.
 
-Remains at home for several years.--Religious visit to Friends in and about London,
-etc.--Various services in his own country.
+[.chapter-synopsis]
+* Remains at home for several years
+* Religious visit to Friends in and about London, etc.
+* Various services in his own country.
 
 +++[+++After his return from America, he remained at home during the years from 1773 to 1777,
 duly attending the six weeks, quarterly, and half years' meetings,
@@ -12,6 +14,8 @@ he was earnestly concerned to be also "`fervent in spirit,
 serving the Lord;`" manifesting where his treasure and his heart were,
 by keeping best things uppermost, as the following extracts from his diary set forth.]
 
+[.small-break]
+'''
 
 1773,
 Seventh month 14th and 15th.--Attended to my domestic
@@ -41,11 +45,19 @@ Market-days prove days of hurry,
 which manifest that in the world there is commotion and discomposure, but in Him,
 who is the Source of life, there is peace and quietness forever.
 
-To a  Friend
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+To a Friend
+
+[.signed-section-context-open]
 Spring Mount, 13th Second month, 1775.
 
-Dear Friend,--As to the appointment that is unanswered on our books,
+[.salutation]
+Dear Friend,
+
+As to the appointment that is unanswered on our books,
 it gives a true representation of our state as a people; some have a will,
 but how to perform they find not; they apprehend they see the state of the Church,
 but how to restore and build up seems difficult, and involves in doubt.
@@ -92,9 +104,14 @@ let us join in the rank of dedication,
 and aspire more and more to be unshackled from every concern
 but this one concern of living to Him that has died for us;
 and then we shall stand in a shining lot at the end of days!
+
+[.signed-section-closing]
 So wishes, so prays him, who is affectionately and sincerely your true friend,
+
+[.signed-section-signature]
 Samuel Neale.
- 
+
+--
 
 1776, Fourth month 10th.--In town,
 and had some company to dinner about other people's affairs.
@@ -109,6 +126,7 @@ I may feel an increase of spiritual strength to struggle on,
 and experience at last victory in Him,
 who is the strength of the battle and the pavilion of peace, safety and conquest!
 
+[.offset]
 +++[+++It may be well to remark that he was often kindly engaged for the help of the widow,
 the fatherless and the needy, which labour of love,
 though at times attended with much harass and fatigue to himself,
@@ -124,9 +142,8 @@ not seeking his own things,
 but "`the things of Jesus Christ,`"--being clothed with humility, and fearful of himself,
 but leaning only on the arm of All-sufficient strength.]
 
-
-He remarks on the 21st of eleventh month, 1776,
-on returning home from the National half year's meeting.]
++++[+++He remarks on the 21st of eleventh month, 1776,
+on returning home from the National half year's meeting:]
 Found my wife and family in health, for which and every blessing,
 I desire to be made truly thankful;
 and as it is by living near the virtue of Truth that we are made and preserved so,
@@ -135,9 +152,16 @@ which preserves the mind in a fit state to meet every storm,
 and to be able to bear every besetment allowed to assault poor mortals,
 in their passage and pilgrimage through this vale of perplexity.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Spring Mount, 14th First month, 1777.
 
-Dear Friend,--Your reply to mine respecting an
+[.salutation]
+Dear Friend,
+
+Your reply to mine respecting an
 excursion to England in the service of the day,
 I look upon as conclusive.
 If you had felt yourself harnessed for a trip there,
@@ -222,12 +246,17 @@ registered in the Lamb's book of Life,
 which is the earnest wish of your affectionate friend in sympathy,
 and I hope true friendship.
 
+[.signed-section-signature]
 Samuel Neale.
+
+--
 
 +++[+++In the autumn of 1778,
 he paid a visit in gospel love to Friends of Leinster and Ulster provinces,
-previous to which his mind was deeply exercised, and he writes thus:--]
+previous to which his mind was deeply exercised, and he writes thus:]
 
+[.small-break]
+'''
 
 Ninth month 5th.--I have felt my mind much buffeted of late,
 some prospects at times arise, which are exercising;
@@ -284,6 +313,7 @@ One in my family has been made very near and dear unto me,
 whom I know is visited by the Power of the holy Jesus,
 to redeem from all things here below.
 
+[.offset]
 +++[+++He was enabled by Divine Goodness and Power to prosecute the journey he had in prospect,
 to the peace and relief of his mind; he remarks of the quarterly meeting of Lisburn,
 that "`the meeting for ministers and elders was solid and instructive,
@@ -291,8 +321,7 @@ and the sweetness of gospel love and virtue attended,`"--and of the public meeti
 that "`Life gradually arose,
 in which ability was given to speak to various states present,
 and the meeting ended under a precious sense of Divine favour and virtue.`"
-He was permitted to get home on the 26th of tenth month, thankful and easy,]
-
+He was permitted to get home on the 26th of tenth month, thankful and easy.]
 
 Twelfth month 6th.--First-day, at meeting, which was favoured with the living presence.
 I then went to the funeral of my esteemed friend James Doyle, who,
@@ -336,6 +365,7 @@ the great Lord and Lawgiver of the universe.
 In the evening we had a sweet tender sitting in my family,
 after which read the Scriptures as usual before rest, and was comforted.
 
+[.offset]
 +++[+++It appears to have been his practice on a first-
 day evening to have a sitting in his family,
 for retirement and waiting on the Lord, to which the young people of his meeting,
@@ -345,7 +375,6 @@ and they generally proved seasons of refreshment and renewal of strength,
 through the tendering influences of the Heavenly Father's love;
 so that he was greatly encouraged to persevere in this
 wholesome exercise and fatherly concern for the flock.]
-
 
 18th.--I feel my mind much exercised on account of my intended visit to London.
 I believe it proceeds from the opening of best counsel,
@@ -386,6 +415,7 @@ and knits together.
 This was a day of favours, thanks be to the great Lord of his heritage!
 Next day went on board.
 
+[.offset]
 +++[+++He mentions being kindly received in Bristol, at the house of Lydia Hawksworth,
 and proceeded towards London on the 19th of second month, 1779,
 taking meetings in the way.
@@ -427,7 +457,7 @@ this evening of the week,--it was a precious opportunity.
 1780,
 First month 28th.--+++[+++After speaking of being indisposed
 and being obliged to keep the house a week,
-he says]
+he says:]
 felt myself pretty quiet within,
 but not without a sense of some of the fiery darts of a wicked enemy still unslain,
 that will be putting up his head when opportunity and his strength will permit him!
@@ -514,8 +544,8 @@ and things that edify, in reading, meditation, etc.
 
 1782,
 First month 17th.--Heard the sorrowful account of the wreck of the Elizabeth packet,
-and the loss of our dear friends Edith Lovell +++[+++
-who had been in Ireland on a religious visit]
+and the loss of our dear friends Edith Lovell +++[+++who
+had been in Ireland on a religious visit]
 and Joseph Sparrow, and twenty-two other passengers,
 including the captain and some of the sailors.
 These sorrowful tidings could not but affect the friends of the lost, and many others.
@@ -604,4 +634,3 @@ May heavenly favour return, or we shall be a frozen people!
 In our evening sitting several young people were present,
 and I thought we were favoured with the lifting up of
 the light of the heavenly countenance upon us.
-

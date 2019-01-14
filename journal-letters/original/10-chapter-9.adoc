@@ -1,19 +1,20 @@
 == Chapter IX.
 
-He sails for America eighth month,
-1770--Landed tenth month near Philadelphia--Accompanies Joseph Oxley--
-Travels extensively amongst Friends in the Southern States--Returns
-to Philadelphia--Attends the yearly meeting there,
-1771.
+[.chapter-synopsis]
+* He sails for America eighth month, 1770
+* Landed tenth month near Philadelphia
+* Accompanies Joseph Oxley
+* Travels extensively amongst Friends in the Southern States
+* Returns to Philadelphia
+* Attends the yearly meeting there, 1771.
 
+[.offset]
 +++[+++Samuel Neale sailed from Cork about the 22nd of eighth month, 1770;
 but his intended companion Joseph Oxley sailed from the
 Thames towards the end of the seventh month,
 and reached New York about the 22nd of ninth month,
 about a month before Samuel Neale arrived near Philadelphia.--See Joseph Oxley's Journal,
-Friends' Library, vol.
-v.]
-
+[.book-title]#Friends' Library#, vol. v.]
 
 I felt the incomes of Divine love sweetly sustaining my mind;
 my heart was humbled in a sense of the mercies and goodness of God daily renewed;
@@ -33,6 +34,7 @@ one of the greatest blessings.
 weight of the work and the inexperience of the instrument.
 I trust I shall be preserved little and low.
 
+[.offset]
 +++[+++It appears that he passed much of his time, while on ship-board,
 in reading the Scriptures, and the writings of valuable Friends,
 to his comfort and edification.
@@ -51,15 +53,23 @@ I hope for this blessing to be continued, that according to ability,
 I may labour in the vineyard,
 and work the works of Him who has called me with his high and holy calling.
 
+[.offset]
 +++[+++He landed the 18th of tenth month, 1770, at Newcastle, near Philadelphia.]
 
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
 To a Friend.^
 footnote:[Addressed probably to his friend Richard Shackleton.]
 
+[.signed-section-context-open]
 Philadelphia, 24th tenth month, 1770;
 
-Dear Friend,--Having opportunity to send a few
+[.salutation]
+Dear Friend,
+
+Having opportunity to send a few
 lines as a token of my remembrance of thee,
 I embrace it.
 After a passage of eight weeks, from my own house to making of land on this continent,
@@ -135,7 +145,10 @@ and then they will be led beside the Shepherd's tent.
 
 I remain in true nearness and cordial affection, thy loving friend in truth,
 
+[.signed-section-signature]
 Samuel Neale.
+
+--
 
 +++[+++It appears that he paid a very extensive and
 acceptable visit to Friends in North America;
@@ -146,6 +159,8 @@ and by the following extracts,
 it is evident that he was favoured with best help in the course of his labours,
 and felt the sweet incomes of peace on his return home.]
 
+[.small-break]
+'''
 
 1770, Tenth month 21st.--Philadelphia, first-day, I was at three meetings:
 the morning meeting was a season of much refreshment to my mind;
@@ -346,7 +361,8 @@ There is great need of care in this respect,
 as well as not to exceed the bounds which Truth prescribes.
 May Divine goodness open our understandings,
 and more and more replenish our minds with that faith, which overcomes slavish fear,
-and gives the victory, 9th.--Was at a marriage, where I was silent,
+and gives the victory.
+9th.--Was at a marriage, where I was silent,
 having nothing to offer, to which I hope I was resigned,
 and thankful for this and every dispensation allotted in true wisdom.
 
@@ -585,11 +601,19 @@ which adds to the weight and exercise of poor pilgrims;
 but out of these straits the Lord our God delivers all that put their
 trust in Him,--blessed be His great and glorious name for ever!
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Neale to Samuel Watson, Ireland.
 
+[.signed-section-context-open]
 Jersey, 27th seventh month, 1771
 
-Dear Cousin,--In my traversing the wilderness,
+[.salutation]
+Dear Cousin,
+
+In my traversing the wilderness,
 I have sometimes felt my mind drawn to converse with thee and thy dear wife,
 in a nearness that prompts me to tell you so.
 The great Orderer of nature and the God of all grace has visited you,
@@ -666,7 +690,7 @@ very much hurts and weakens as to coming forward in the brightness of Truth,
 and in service in the Church.
 J+++.+++ Churchman, William Brown, Joseph White, and several that visited Europe in our memory,
 are well, and keep alive in the Truth, in the living unity and spiritual bond.
-T+++.+++ Lightfoot and Susannah I have been in company with several times, and at their house.
+Thomas Lightfoot and Susannah I have been in company with several times, and at their house.
 Susannah is highly and deservedly esteemed, and so is her husband:
 I believe they would both be as well pleased to live there (I mean Ireland) as here;
 It is not all gold that glistens; that is enough to be gathered +++[+++as to]
@@ -694,7 +718,13 @@ but it looks most likely that I shall reside on this continent this winter.
 I am pleased to hear a good account of cousin Jenny;
 nothing gives me greater joy than to hear (that) my kindred walk in the Truth.
 
-Your affectionate cousin, Samuel Neale.
+[.signed-section-closing]
+Your affectionate cousin,
+
+[.signed-section-signature]
+Samuel Neale.
+
+--
 
 28th.--Being first-day, I was at two public meetings at Haddonfield,
 in which were many Friends from other meetings,
@@ -718,7 +748,7 @@ here we had a solid comfortable season together,--life prevailed in this meeting
 and we were refreshed one in another;
 it ended under a weighty sense of the heavenly presence being near and overshadowing us.
 Here lives my esteemed friend Mordecai Yarnall, with whom I staid all night.
-Next day went to Providence meeting, accompanied by John Pemberton and M. Yarnall:
+Next day went to Providence meeting, accompanied by John Pemberton and Mordecai Yarnall:
 in this meeting my mind was made easy by bearing a short testimony to the Truth,
 after which I felt the +++[+++evidence]
 of peace and joy in the Holy Ghost.
@@ -780,4 +810,3 @@ may be counted as stars standing against the enemies of
 Israel and making war against wrong things.
 I was mercifully sustained and replenished this day; next day returned to Philadelphia,
 in order to attend the yearly meeting.
-

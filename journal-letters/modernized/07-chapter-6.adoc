@@ -1,7 +1,10 @@
 == Chapter VI.
 
-At Lancaster quarterly meeting--South Wales--Visits
-meetings in Ireland--Marriage to Sarah Beale.
+[.chapter-synopsis]
+* At Lancaster quarterly meeting
+* South Wales
+* Visits meetings in Ireland
+* Marriage to Sarah Beale.
 
 On the 11th of eighth month, 1758, I came to Lancaster to William Dilworth's;
 the quarterly meeting for ministers and elders was held the same evening,
@@ -135,7 +138,7 @@ than burden others with long dry declarations.
 Went that evening to sit with the widow and fatherless,
 in which visit had comfort extended.
 
-16th.--Visited +++______+++'s family,
+16th.--Visited +++_______+++'s family,
 which nearly concludes our services in this quarter in visiting +++[+++with a committee]
 the families of friends;
 and though it took a considerable time to pass through the families,
@@ -521,4 +524,3 @@ for which the praise is to be ascribed to the invisible
 operation of that unction that comes by Jesus Christ,
 through the mercy of God the Father,
 to whom let thanksgiving and renown be forever dedicated!
-

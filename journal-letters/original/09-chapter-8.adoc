@@ -1,7 +1,9 @@
 == Chapter VIII.
 
-Quarterly meeting at Waterford--Attends the yearly meeting in London,
-1765--Also that of 1768, etc.
+[.chapter-synopsis]
+* Quarterly meeting at Waterford
+* Attends the yearly meeting in London, 1765
+* Also that of 1768, etc.
 
 1764, Sixth month 18th.--Attended the quarterly meeting at Waterford:
 in the meeting for worship the authority of Truth arose,
@@ -159,9 +161,16 @@ and my spirit was taught to magnify that Power that
 changes the wilderness into a fruitful field,
 and causes the parched ground to become a pool of water.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Glanmire, 16th Second month, 1766.
 
-Dear Friend,--I received thy acceptable lines of the 31st instant.
+[.salutation]
+Dear Friend,
+
+I received thy acceptable lines of the 31st instant.
 I thought I should soon hear from thee by the pointing of my mind so frequently that way,
 with some degree of brotherly nearness,
 which I am thankful to feel spring in my mind to any of the brotherhood,
@@ -229,14 +238,21 @@ which will entitle us to sing amongst the sons of God a song of salvation and vi
 My heart nearly and warmly salutes thee, etc., etc.,
 which continues me thy affectionate and real friend,
 
+[.signed-section-signature]
 Samuel Neale
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Glanmire, 4th of fourth month, 1766.
 
-My Dear Friend,--Thine I received with affectionate nearness.
+[.salutation]
+My Dear Friend,
+
+Thine I received with affectionate nearness.
 Let me write or speak to thee sometimes a little closely,
 I have nothing in it but good-will.
 I desire the same freedom may be used to me;
@@ -301,7 +317,10 @@ and an ornamental conduct sets home his doctrine.
 Our united love is to you both, my dear friends, also to thy father, mother,
 and others in thy freedom, which continues me in stedfast friendship thy near friend,
 
+[.signed-section-signature]
 Samuel Neale.
+
+--
 
 Seventh month 21st.--This day employed about my outward concerns;--my
 mind was in a state of toil,--had but very little time in retirement,
@@ -407,7 +426,7 @@ that we may by standing close and low, as in the bottom of Jordan,
 be kept alive unto the Lord God and the Lamb,
 bringing up stones of memorial to the praise and salvation of our God; Amen!
 
-A, F. was a man of good capacity, good-natured to a large degree,
+A+++.+++ F. was a man of good capacity, good-natured to a large degree,
 and was very compliant and obliging,
 which made him much beloved by those of others as well as our own Society.
 An inclination to gratify a passion which has overthrown many, was his foible;
@@ -637,11 +656,19 @@ to follow after things that are eternal.
 The work is the Lord's and the praise and glory of all be ascribed to his great Name;
 who is worthy to be renowned by every generation of man, for His mercies endure for ever!
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Robert Dudley
 
+[.signed-section-context-open]
 Glanmire, 20th of Eighth month, 1770.
 
-Dear Friend,--I had thy letter in answer to mine,
+[.salutation]
+Dear Friend,
+
+I had thy letter in answer to mine,
 which gave me pleasure in various respects;
 thy commemoration of the favours and blessings
 of heaven dispensed to thee in thy infant state,
@@ -746,5 +773,7 @@ Farewell!--may wisdom and knowledge be the stability of thy time whilst on earth
 and may the fear of the Lord prove thy glory,--in which desire,
 I remain thy truly loving friend.
 
+[.signed-section-signature]
 Samuel Neale.
 
+--
